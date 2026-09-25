@@ -5,7 +5,7 @@
 Lab assignment for the course *Analysis and Simulation of Aerospace Systems*, 
 Politecnico di Milano, Aerospace Engineering, A.Y. 2024/2025.
 
-Group project — Emma Mori, Giacomo Trabacchin, Alex Triolo, Chiara Vaccari.
+Group project
 
 ## Overview
 This project models lateral liquid sloshing in a partially filled cylindrical 
