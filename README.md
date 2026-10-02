@@ -26,7 +26,7 @@ The model is developed in state-space form and used to:
   implementation
 
 ## Contents
-- `report.pdf` — full report: theory, derivations, results and plots
+- `Report.pdf` — full report: theory, derivations, results and plots
 - MATLAB scripts and Simulink model files implementing the multi-pendulum 
   system, response analyses and convergence study
 
